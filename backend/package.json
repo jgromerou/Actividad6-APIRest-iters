@@ -1,0 +1,25 @@
+{
+  "name": "Iters",
+  "version": "1.0.0",
+  "description": "Curso de Iters Actividad 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgromerou/Actividad6-APIRest-iters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgromerou/Actividad6-APIRest-iters/issues"
+  },
+  "homepage": "https://github.com/jgromerou/Actividad6-APIRest-iters#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
