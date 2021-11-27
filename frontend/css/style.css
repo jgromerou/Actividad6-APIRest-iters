@@ -1,0 +1,51 @@
+#logo {
+  height: 40px;
+}
+
+#search-container {
+  margin-top: 72px;
+}
+
+#search-box {
+  height: 38px;
+}
+
+.card-img-top {
+  height: 40vh;
+  object-fit: cover;
+}
+
+.navbar {
+  background-color: rgb(238 185 24 / 90%);
+}
+
+.parallax-promo {
+  background-image: url('../images/textura_parallax.jpg');
+  background-attachment: fixed;
+  height: 18vh;
+
+  font-size: 36px;
+  background-size: cover;
+}
+
+.btn-primary {
+  background-color: #eeb918;
+  border-color: #eeb918;
+}
+
+.btn-primary:hover {
+  background-color: #a17e14;
+  border-color: #a17e14;
+}
+
+.card:hover {
+  border: 1px solid blue;
+}
+
+.card-link {
+  color: black;
+}
+
+.card-link:hover {
+  color: cadetblue;
+}
